@@ -1,4 +1,4 @@
-# product-analytics-project
+# Product-Analytics
 
 Project Overview
 This project was initiated to gain a deeper understanding of how Key Performance Indicators (KPIs) work in the industry. The idea was to simulate a scenario similar to a real-world product like Canva and generate synthetic data using Python. The generated data consists of three main datasets:

@@ -23,6 +23,3 @@ Weekly Active Users (WAU),
 Gross Annual Recurring Revenue (ARR),
 Monthly and yearly Cancel ARR.
 
-https://public.tableau.com/app/profile/purva.badve3971/viz/Product_Analytics/Dashboard2?publish=yes
-
-This project serves as a practical exploration of KPIs commonly used in product analytics and provides hands-on experience in data generation, storage, analysis, and visualization using modern tools and technologies.
